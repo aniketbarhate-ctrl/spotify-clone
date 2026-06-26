@@ -182,7 +182,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 80px;
+  margin-top: 5rem;
 }
 .line {
   width: 95%;
@@ -198,7 +198,7 @@ a {
   height: 182px;
   text-align: start;
   color: #b3b3b3;
-  font-size: 15px;
+  font-size: 0.93rem;
   padding: 0;
 }
 .foot ul {
@@ -206,7 +206,7 @@ a {
   padding: 0;
 }
 .foot li {
-  margin-bottom: 10px;
+  margin-bottom: 0.62rem;
 }
 .heading {
   color: white;
@@ -235,22 +235,22 @@ a {
   transform: scale(1.2);
 }
 .brand {
-  width: 230px;
+  width: 14.37rem;
 }
 .foot-a a {
   text-decoration: none;
   color: #b3b3b3;
-  margin-left: 20px;
-  font-size: 14px;
+  margin-left: 1.25rem;
+  font-size: 0.87rem;
 }
 .foot-a a:hover {
   color: rgb(12, 235, 12);
 }
 .foot-a {
-  margin-top: 50px;
-  margin-left: 20px;
+  margin-top: 3.12rem;
+  margin-left: 1.25rem;
   height: 150px;
   display: flex;
   justify-content: space-between;
-  margin-right: 20px;
+  margin-right: 1.25rem;
 }
