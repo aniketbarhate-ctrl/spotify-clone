@@ -154,3 +154,28 @@ a {
     display: none;
   }
 }
+
+.song{
+  background-color: #232323;
+  width: 150px;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.song-img{
+  width: 100%;
+  border-radius: 0.5rem;
+}
+.song-title{
+  font-weight: 600;
+}
+.song-info{
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
